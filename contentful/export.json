@@ -1390,7 +1390,7 @@
         "id": "15jwOBqpxqSAOy2eOO4S0m",
         "type": "Entry",
         "createdAt": "2018-07-04T10:18:37.278Z",
-        "updatedAt": "2018-07-04T10:34:04.632Z",
+        "updatedAt": "2018-07-04T15:02:43.571Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1412,8 +1412,8 @@
             "id": "4czBCX10J9UFQS3bIsWczg"
           }
         },
-        "publishedCounter": 3,
-        "version": 40,
+        "publishedCounter": 4,
+        "version": 44,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1421,9 +1421,9 @@
             "id": "4czBCX10J9UFQS3bIsWczg"
           }
         },
-        "publishedVersion": 39,
+        "publishedVersion": 43,
         "firstPublishedAt": "2018-07-04T10:18:43.627Z",
-        "publishedAt": "2018-07-04T10:34:04.632Z",
+        "publishedAt": "2018-07-04T15:02:43.571Z",
         "contentType": {
           "sys": {
             "type": "Link",
@@ -1443,7 +1443,7 @@
           "en-US": "ANZ"
         },
         "shortBio": {
-          "en-US": "Delivery best-quality websites"
+          "en-US": "Deliver the best-quality websites"
         },
         "image": {
           "en-US": {
@@ -2459,286 +2459,6 @@
             },
             "fileName": "initiatives.jpg",
             "contentType": "image/webp"
-          }
-        }
-      }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "308734m3x97h"
-          }
-        },
-        "id": "6Od9v3wzLOysiMum0Wkmme",
-        "type": "Asset",
-        "createdAt": "2018-07-04T10:18:08.291Z",
-        "updatedAt": "2018-07-04T10:32:37.725Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4czBCX10J9UFQS3bIsWczg"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4czBCX10J9UFQS3bIsWczg"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4czBCX10J9UFQS3bIsWczg"
-          }
-        },
-        "publishedVersion": 5,
-        "firstPublishedAt": "2018-07-04T10:18:32.783Z",
-        "publishedAt": "2018-07-04T10:32:37.725Z"
-      },
-      "fields": {
-        "title": {
-          "en-US": "Woman with black hat"
-        },
-        "description": {
-          "en-US": "Woman wearing a black hat"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/308734m3x97h/6Od9v3wzLOysiMum0Wkmme/7583bbc6144f253de8223760af3c6b62/cameron-kirby-88711.jpg",
-            "details": {
-              "size": 7316629,
-              "image": {
-                "width": 3000,
-                "height": 2000
-              }
-            },
-            "fileName": "cameron-kirby-88711.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "308734m3x97h"
-          }
-        },
-        "id": "4NzwDSDlGECGIiokKomsyI",
-        "type": "Asset",
-        "createdAt": "2018-07-04T10:18:08.298Z",
-        "updatedAt": "2018-07-04T10:32:36.562Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4czBCX10J9UFQS3bIsWczg"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4czBCX10J9UFQS3bIsWczg"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4czBCX10J9UFQS3bIsWczg"
-          }
-        },
-        "publishedVersion": 5,
-        "firstPublishedAt": "2018-07-04T10:18:31.053Z",
-        "publishedAt": "2018-07-04T10:32:36.562Z"
-      },
-      "fields": {
-        "title": {
-          "en-US": "City"
-        },
-        "description": {
-          "en-US": "City pictured from the sky"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/308734m3x97h/4NzwDSDlGECGIiokKomsyI/88e63481ba414c92143afe8314c7d664/denys-nevozhai-100695.jpg",
-            "details": {
-              "size": 15736986,
-              "image": {
-                "width": 3992,
-                "height": 2992
-              }
-            },
-            "fileName": "denys-nevozhai-100695.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "308734m3x97h"
-          }
-        },
-        "id": "4shwYI3POEGkw0Eg6kcyaQ",
-        "type": "Asset",
-        "createdAt": "2018-07-04T10:18:08.389Z",
-        "updatedAt": "2018-07-04T10:32:35.102Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4czBCX10J9UFQS3bIsWczg"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4czBCX10J9UFQS3bIsWczg"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4czBCX10J9UFQS3bIsWczg"
-          }
-        },
-        "publishedVersion": 5,
-        "firstPublishedAt": "2018-07-04T10:18:29.065Z",
-        "publishedAt": "2018-07-04T10:32:35.102Z"
-      },
-      "fields": {
-        "title": {
-          "en-US": "Man in the fields"
-        },
-        "description": {
-          "en-US": "Tattooed man walking in a field"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/308734m3x97h/4shwYI3POEGkw0Eg6kcyaQ/deefc80d1e9e19d1951af826a64469bd/felix-russell-saw-112140.jpg",
-            "details": {
-              "size": 4539181,
-              "image": {
-                "width": 2500,
-                "height": 1667
-              }
-            },
-            "fileName": "felix-russell-saw-112140.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "308734m3x97h"
-          }
-        },
-        "id": "7orLdboQQowIUs22KAW4U",
-        "type": "Asset",
-        "createdAt": "2018-07-04T10:18:11.975Z",
-        "updatedAt": "2018-07-04T10:32:29.887Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4czBCX10J9UFQS3bIsWczg"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4czBCX10J9UFQS3bIsWczg"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4czBCX10J9UFQS3bIsWczg"
-          }
-        },
-        "publishedVersion": 5,
-        "firstPublishedAt": "2018-07-04T10:18:26.238Z",
-        "publishedAt": "2018-07-04T10:32:29.887Z"
-      },
-      "fields": {
-        "title": {
-          "en-US": "Sparkler"
-        },
-        "description": {
-          "en-US": "John with Sparkler"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/308734m3x97h/7orLdboQQowIUs22KAW4U/3818294837b830c2604f8b3f5fe25e84/matt-palmer-254999.jpg",
-            "details": {
-              "size": 2293094,
-              "image": {
-                "width": 3000,
-                "height": 2000
-              }
-            },
-            "fileName": "matt-palmer-254999.jpg",
-            "contentType": "image/jpeg"
           }
         }
       }
