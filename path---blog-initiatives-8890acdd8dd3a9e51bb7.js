@@ -1,0 +1,2 @@
+webpackJsonp([0x61ad27ee8e12],{388:function(t,e){t.exports={data:{contentfulBlogPost:{title:"Initiatives",publishDate:"July 3rd, 2018",heroImage:{file:{url:"//images.ctfassets.net/308734m3x97h/335HXbAcEU8Ao2MKkKuwm8/07203954b6536134ac3ee43e48153785/initiatives.jpg"}},body:{childMarkdownRemark:{html:"<p>Initiatives</p>"}}}},pathContext:{slug:"initiatives"}}}});
+//# sourceMappingURL=path---blog-initiatives-8890acdd8dd3a9e51bb7.js.map
